@@ -1,7 +1,9 @@
 {
     "extracted_clauses": {
-        "error": "Extra data: line 8 column 1 (char 392)",
-        "message": "Failed to extract clauses."
+        "Parties": "This agreement is by and between __________________ (Institution ), and _____________________ ( Seller )",
+        "Term": "The effective date of this agreement is the last date of signature below.",
+        "Governing Law": "This agreement is to be governed for all purposes by, and construed in accordance with the law of _______________ and venue is to lie exclusively in the courts for _______________________ .",
+        "Confidentiality": null
     },
-    "summary": "This agreement outlines the sale of a collection (specified in Attachment A) from a Seller to an Institution for a stated purchase price.  The Institution will pay upon satisfactory inspection, and the Seller is responsible for shipping and risk of loss until arrival.  Intellectual property rights transfer (or are dedicated to the public domain, or reserved with specified uses as detailed in Attachment B) depending on the chosen clause.  The Institution has 90 days to inspect and can reject items with payment adjustments or replacements.  The Seller indemnifies the Institution against any claims arising from breaches of warranty.\n"
+    "summary": "This agreement outlines the purchase of a collection (specified in Attachment A) by an Institution from a Seller for a stated purchase price.  The Seller is obligated to transfer ownership and, depending on the chosen clause, either dedicate intellectual property rights to the public domain or transfer them to the Institution. The Institution must pay upon satisfactory inspection, and has 90 days to inspect the collection, with the right to reject it (and withhold payment) if significant discrepancies exist. The Seller is responsible for shipping and bears the risk of loss until the collection reaches the Institution.  Finally, the agreement includes standard clauses on warranties, indemnification, and dispute resolution.\n"
 }

@@ -1,7 +1,9 @@
 {
     "extracted_clauses": {
-        "error": "Extra data: line 8 column 1 (char 913)",
-        "message": "Failed to extract clauses."
+        "Parties": "Company: Innovate Systems Ltd., a corporation at 101 Cyber City, Gurugram, Haryana, India (Company), and Employee: Rohan Mehra, residing at 654 Orchid Towers, Sector 56, Gurugram, Haryana, India (Employee)",
+        "Term": "Effective from July 20, 2025, continuing during employment and 1 year posttermination for confidentiality.",
+        "Governing Law": "Haryana, India law applies, with venue in Gurugram courts.",
+        "Confidentiality": "Confidential Information includes proprietary data such as product designs, financial records, and client contracts disclosed to the Employee. The Employee shall not share Confidential Information without written Company approval. Use of Confidential Information is limited to jobrelated purposes. Confidentiality obligations survive termination. All Confidential Information must be returned upon termination. Immediate termination upon confidentiality breach."
     },
-    "summary": "This Non-Disclosure Agreement (NDA), signed July 7, 2025, between Innovate Systems Ltd. and Rohan Mehra, protects Innovate Systems' confidential data.  Mehra, as a Data Analyst, is obligated to maintain the confidentiality of this information, using it only for work-related purposes and returning it upon termination.  The agreement's confidentiality clauses survive the employment relationship for one year.  Breach of confidentiality results in immediate termination and potential penalties for Mehra.  Haryana, India law governs the agreement.\n"
+    "summary": "This Non-Disclosure Agreement (NDA), effective July 20, 2025, is between Innovate Systems Ltd. and its employee, Rohan Mehra.  The agreement mandates Mehra's protection of Innovate Systems' confidential data, including but not limited to product designs and financial records,  during and for one year after his employment.  Mehra agrees to use this information solely for work-related purposes and faces penalties for breaches of confidentiality, including immediate termination and a $2,000 penalty for early termination without cause.  The NDA also outlines Mehra's salary and benefits and specifies that Haryana, India law governs the agreement.\n"
 }

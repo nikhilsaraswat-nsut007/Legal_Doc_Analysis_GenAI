@@ -1,7 +1,9 @@
 {
     "extracted_clauses": {
-        "error": "Extra data: line 8 column 1 (char 745)",
-        "message": "Failed to extract clauses."
+        "Parties": "Service Provider: [Service Provider Name], a [business entity, e.g., corporation, LLC] with its principal place of business at [Service Provider Address] (Provider), and Client: [Client Name], a [business entity or individual] with its principal place of business or residence at [Client Address] (Client).",
+        "Term": "This Agreement shall commence on [Start Date] and continue until the Services are completed, estimated to be on or before [Completion Date], unless terminated earlier in accordance with Section 4.",
+        "Governing Law": "This Agreement shall be governed by and construed in accordance with the laws of [State/Country], with venue exclusively in the courts of [City/State].",
+        "Confidentiality": null
     },
-    "summary": "This Service Agreement outlines the terms between [Service Provider Name] and [Client Name] for web development services.  The provider will design, develop, and deploy a responsive website as detailed in Attachment A, with payment of $[Amount] split 50% upon signing and 50% upon completion.  The agreement details project timelines, payment methods, and termination clauses including penalties for early termination by the client.  Both parties have responsibilities, including providing necessary information and making timely payments.  The agreement specifies limitations on the provider's liability and is governed by the laws of [State/Country].\n"
+    "summary": "This Service Agreement outlines the terms between [Service Provider Name] and [Client Name] for web development services.  The provider will design, develop, and deploy a website as detailed in Attachment A, with payment totaling $[Amount] due in two installments (50% upfront, 50% upon completion).  The agreement specifies timelines, payment methods, and responsibilities for both parties, including limitations on the provider's liability.  The agreement includes clauses for termination, with penalties for early termination by the client.  Finally, the agreement specifies governing law and dispute resolution procedures.\n"
 }

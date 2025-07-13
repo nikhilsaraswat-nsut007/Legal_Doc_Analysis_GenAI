@@ -1,7 +1,9 @@
 {
     "extracted_clauses": {
-        "error": "Extra data: line 8 column 1 (char 624)",
-        "message": "Failed to extract clauses."
+        "Parties": "This is a legal agreement (\"Agreement\") between you and Ninu, Inc. (Nimia).",
+        "Term": "This Agreement is effective until it is terminated. You can terminate this Agreement by destroying the Content and any Permitted Derivative Works, along with any copies or archives of it or accompanying materials (if applicable), and ceasing to use the Content for any purpose. The Agreement also terminates without notice from Nimia if at any time you fail to comply with any of its terms.",
+        "Governing Law": "This Agreement will be governed under the laws of the State of Washington and the federal laws of the United States.",
+        "Confidentiality": "null"
     },
-    "summary": "This Public Domain Agreement outlines the terms between Ninu, Inc. (Nimia) and users downloading public domain content from Nimia's website.  The agreement dictates permitted uses of the content, primarily prohibiting resale, redistribution in certain formats, and extraction of original files.  Nimia provides the content \"as is\" with limited warranties, and users indemnify Nimia against any legal action arising from content use.  The agreement includes clauses on termination, replacement content, and liability limitations ($10,000 maximum).  Disputes are to be resolved through arbitration in Seattle, Washington.\n"
+    "summary": "This Public Domain Agreement governs the use of content downloaded from Ninu, Inc. (Nimia)'s website.  The agreement is between Nimia and the user, outlining user rights and obligations concerning the content, deemed to be in the public domain but not fully guaranteed as such by Nimia.  Users agree not to redistribute the content commercially or in ways that allow for easy extraction of the original files.  Nimia provides limited indemnification but disclaims most warranties and limits its liability to $10,000.  Users are responsible for obtaining necessary permissions for commercial use, including clearances for individuals depicted in the content.\n"
 }
