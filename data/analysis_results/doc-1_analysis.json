@@ -1,0 +1,7 @@
+{
+    "extracted_clauses": {
+        "error": "Extra data: line 8 column 1 (char 745)",
+        "message": "Failed to extract clauses."
+    },
+    "summary": "This Service Agreement outlines the terms between [Service Provider Name] and [Client Name] for web development services.  The provider will design, develop, and deploy a responsive website as detailed in Attachment A, with payment of $[Amount] split 50% upon signing and 50% upon completion.  The agreement details project timelines, payment methods, and termination clauses including penalties for early termination by the client.  Both parties have responsibilities, including providing necessary information and making timely payments.  The agreement specifies limitations on the provider's liability and is governed by the laws of [State/Country].\n"
+}
